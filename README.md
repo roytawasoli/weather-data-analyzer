@@ -119,7 +119,7 @@ Date,City,Temperature_C,Rainfall_mm,WindSpeed_kmh
 
 ## 📄 License
 
-   This project is licensed under the MIT License – see the [LICENSE](https://duckduckgo.com/) file for details.
+   This project is licensed under the MIT License – see the [LICENSE](https://github.com/roytawasoli/weather-data-analyzer/blob/main/LICENSE) file for details.
 
 ---
 
